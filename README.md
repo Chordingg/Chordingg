@@ -1,5 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=000000&height=150&section=header&text=WelcometoChordingg'sGitHub&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+##  <a id="venom">
+
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20to%20Chordingg's%20GitHub.&fontSize=40&color=0:8871e5,100:b678c4&stroke=b678c4)
+
+<hr/>
 <div align="center"> 
 ####  :wave: Welcome my github profile !
 <br/>
