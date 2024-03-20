@@ -1,17 +1,11 @@
-### Hi there 👋
+<div align="center"> 
+![header](https://capsule-render.vercel.app/api?type=venom&color=000000&height=150&section=header&text=WelcometoChordingg'sGitHub&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+####  :wave: Welcome my github profile !
+<br/>
+<br/>
+####  :clipboard: Once I've Used 
+<br/>
 
-![header](https://capsule-render.vercel.app/api?type=venom&text=WelcometoChordingg'sGitHub!)
-
-
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-</div>
-
-<br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -82,6 +76,8 @@
 ![Chordingg's GitHub stats](https://github-readme-stats.vercel.app/api?username=chordingg&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chordingg&layout=compact)
+
+</div>
 
 <!--
 **Chordingg/Chordingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
