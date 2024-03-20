@@ -1,21 +1,16 @@
-
 ##  <a id="venom">
 
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20to%20Chordingg's%20GitHub.&fontSize=40&color=0:8871e5,100:b678c4&stroke=b678c4)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=300&text=Welcome%20to%20Chordingg's%20GitHub.&fontSize=40&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 <hr/>
 <div align="center"> 
-####  :wave: Welcome my github profile !
+:wave: Welcome my github profile !
 <br/>
 <br/>
-####  :clipboard: Once I've Used 
-  
+:clipboard: Once I've Used 
+</div>
 <br/>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
-
+<div align= "center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -25,17 +20,11 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
 </div>
-
+<br/>
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
@@ -80,15 +69,18 @@
   </a>
 </div>
 
+<br/>
+<hr>
 
-
-
+<div align="center">
+  
 ![Chordingg's GitHub stats](https://github-readme-stats.vercel.app/api?username=chordingg&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chordingg&layout=compact)
 
 </div>
 
+<br>
 <!--
 **Chordingg/Chordingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
