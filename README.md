@@ -1,5 +1,3 @@
-<hr/>
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:623acf,100:6cc19c&height=180&text=Welcome%20to%20Chordingg's%20GitHub&animation=&fontColor=000000&fontSize=50" />
    
