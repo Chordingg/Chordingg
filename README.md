@@ -43,7 +43,7 @@
     <div align= "center"> 
      <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats </h3> <br>  
     <div align= "center"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=Chordingg&bg_color=60,bd96f8,94ffcd&title_color=000000&text_color=000000"/> <br> 
+        <img src="https://github-readme-stats.vercel.app/api?username=Chordingg&bg_color=60,bd96f8,94ffcd&title_color=000000&text_color=000000"/> <br>  <br> 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chordingg&layout=compact&bg_color=60,bd96f8,94ffcd&title_color=000000&text_color=000000"/> </div> 
     </div>
     
