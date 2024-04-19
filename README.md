@@ -7,7 +7,7 @@
     <div align= "center"> 
     <h2 align="center"> 👋 Welcome My Github Profile ! </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 30살 인생의 새로운 시작을 하고 있는 예비 개발자 입니다. </div> 
-    </div><hr/> <br>
+    </div><hr/>
     <div align= "center">
     <h2 align="center"> 🛠️ Tech Stacks </h2> <br>
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
@@ -41,11 +41,10 @@
        </div> 
     </div><br><hr/>
     <div align= "center"> 
-    🏅 Stats  
-      <div align= "center"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=Chordingg&bg_color=60,bd96f8,94ffcd&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chordingg&layout=compact&bg_color=60,bd96f8,94ffcd&title_color=000000&text_color=000000"
-           /> </div> 
+     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats </h2> <br>  
+    <div align= "center"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=Chordingg&bg_color=60,bd96f8,94ffcd&title_color=000000&text_color=000000"/> <br> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chordingg&layout=compact&bg_color=60,bd96f8,94ffcd&title_color=000000&text_color=000000"/> </div> 
     </div>
     
 
