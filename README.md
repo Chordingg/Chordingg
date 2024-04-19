@@ -5,11 +5,11 @@
    
 </div>
     <div align= "center"> 
-    <h2 align="center"> 👋 Welcome My Github Profile ! </h2>
+    <h3 align="center"> 👋 Welcome My Github Profile ! </h3>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 30살 인생의 새로운 시작을 하고 있는 예비 개발자 입니다. </div> 
     </div><hr/>
     <div align= "center">
-    <h2 align="center"> 🛠️ Tech Stacks </h2> <br>
+    <h3 align="center"> 🛠️ Tech Stacks </h3> <br>
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
@@ -32,7 +32,7 @@
           </div><br><hr/>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h3> <br> 
     <div align= "center"> <a href=https://www.instagram.com/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/"> </a>
          <a href=https://chording-95.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://chording-95.tistory.com/"> </a>
          <a href=https://www.notion.so/Daily-31758745b74848039adc06b06b86212c> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Daily-31758745b74848039adc06b06b86212c"> </a>
@@ -41,7 +41,7 @@
        </div> 
     </div><br><hr/>
     <div align= "center"> 
-     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats </h2> <br>  
+     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats </h3> <br>  
     <div align= "center"> 
         <img src="https://github-readme-stats.vercel.app/api?username=Chordingg&bg_color=60,bd96f8,94ffcd&title_color=000000&text_color=000000"/> <br> 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chordingg&layout=compact&bg_color=60,bd96f8,94ffcd&title_color=000000&text_color=000000"/> </div> 
