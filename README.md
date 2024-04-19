@@ -36,6 +36,8 @@
          <a href=https://www.notion.so/Daily-31758745b74848039adc06b06b86212c> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Daily-31758745b74848039adc06b06b86212c"> </a>
           </div>  <br> 
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChordingg%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+         <a href="mailto:whxhfl0529@gmail.com">
+             <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
        </div> 
     </div><br><hr/>
     <div align= "center"> 
