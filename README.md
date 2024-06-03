@@ -3,7 +3,7 @@
 </div>
     <div align= "center"> 
     <h3 align="center"> 👋 Welcome My Github Profile ! </h3>
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 30살 인생에 낯선 길을 걸어보려는 예비 개발자입니다. </div> 
+    <div style="font-weight: 700; font-size:15px; text-align: center; color: #282d33;"> 30살 인생에 낯선 길을 걸어보려는 예비 개발자입니다. </div> 
     </div><hr/>
     <div align= "center">
     <h3 align="center"> 🛠️ Tech Stacks </h3> <br>
