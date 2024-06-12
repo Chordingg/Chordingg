@@ -58,11 +58,14 @@
    <div align="center">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h3> <br>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Chordingg&bg_color=60,bd96f8,94ffcd&title_color=000000&text_color=000000"/> <br> <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chordingg&layout=compact&bg_color=60,bd96f8,94ffcd&title_color=000000&text_color=000000"/><br> <br>
-        <a href="https://solved.ac/Chordingg">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whgustj5679">
+        <img src="https://github-readme-stats.vercel.app/api?username=Chordingg&bg_color=60,bd96f8,94ffcd&title_color=000000&text_color=000000"  width="40%"/ > 
+         <a href="https://solved.ac/Chordingg">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whgustj5679"  width="35%">
         </a>
+    </div>
+    <br>
+    <div align="center">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chordingg&layout=compact&bg_color=60,bd96f8,94ffcd&title_color=000000&text_color=000000" width="50%"/><br> <br>
     </div>
 </div>
     
