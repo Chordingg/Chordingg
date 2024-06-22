@@ -3,7 +3,7 @@
 </div>
     <div align= "center"> 
     <h3 align="center"> 👋 예비 백앤드 개발자 조현서 입니다! ☺️ </h3>
-    <div style="font-weight: 700; font-size:15px; text-align: center; color: #282d33;"> 30살 인생에 낯선 길을 걸어보려는 예비 개발자입니다. </div> 
+    <div style="font-weight: 700; font-size:15px; text-align: center; color: #282d33;"> 30살 인생에 낯선 길을 걸어보려는 예비 백엔드 개발자입니다. </div> 
         <br>
         <div>
             <a href="https://chordingg.github.io/chordingg_portfolio/" style="text-decoration: none;">포트폴리오</a>
