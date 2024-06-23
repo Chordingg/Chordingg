@@ -43,13 +43,17 @@
     <div align= "center">
         <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h3> <br> 
             <a href=https://www.instagram.com/> 
-                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/"> </a>
+                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/"> 
+            </a>
              <a href=mailto:> 
-                 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:"> </a>
+                 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:"> 
+             </a>
              <a href=https://chording-95.tistory.com/> 
-                 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://chording-95.tistory.com/"> </a>
+                 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://chording-95.tistory.com/"> 
+             </a>
              <a href=https://www.notion.so/Daily-31758745b74848039adc06b06b86212c> 
-                 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Daily-31758745b74848039adc06b06b86212c"> </a>
+                 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Daily-31758745b74848039adc06b06b86212c"> 
+             </a>
     </div><br> 
     <div align= "center">
         <a href="https://hits.seeyoufarm.com"> 
