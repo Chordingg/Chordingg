@@ -51,7 +51,7 @@
              <a href=https://chording-95.tistory.com/> 
                  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://chording-95.tistory.com/"> 
              </a>
-             <a href=https://www.notion.so/Portfolio-768461988c784a9d8751f8e7e3cde476> 
+             <a href=https://www.notion.so/Portfolio-d968376d002747fdb5bb518090f1f0d9> 
                  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Daily-31758745b74848039adc06b06b86212c"> 
              </a>
     </div><br> 
