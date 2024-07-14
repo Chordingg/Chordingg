@@ -73,15 +73,9 @@
          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chordingg&layout=compact&bg_color=60,bd96f8,94ffcd&title_color=000000&text_color=000000" width="50%"/><br> <br>
     </div>
 </div>
-    
-    
-
-
-
-
-
 
 <br>
+
 <!--
 **Chordingg/Chordingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
