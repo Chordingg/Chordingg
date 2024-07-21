@@ -10,7 +10,7 @@
         </div>
     </div><hr/>
     <div align= "center">
-    <h3 align="center"> 🛠️ Tech Stacks </h3> <br>
+    <h3 align="center"> 🛠️ Tech Stacks 🛠️ </h3> <br>
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
@@ -41,7 +41,7 @@
           </div><br><hr/>
     </div>
     <div align= "center">
-        <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h3> <br> 
+        <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📞 Contact me 📞</h3><br> 
             <a href=https://www.instagram.com/> 
                 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/"> 
             </a>
@@ -61,7 +61,7 @@
     </div>
     <br><hr/>
    <div align="center">
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h3> <br>
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats 🏅</h3> <br>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Chordingg&bg_color=60,bd96f8,94ffcd&title_color=000000&text_color=000000"  width="40%"/ > 
          <a href="https://solved.ac/Chordingg">
@@ -90,5 +90,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-First Project
