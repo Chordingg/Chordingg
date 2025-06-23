@@ -2,8 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Chordingg's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontColor=000000" />
 </div>
     <div align= "center"> 
-    <h3 align="center"> 👋 예비 백앤드 개발자 조현서 입니다! ☺️ </h3>
-    <div style="font-weight: 700; font-size:15px; text-align: center; color: #282d33;"> 서른살 인생에 낯설지만 끌리는 길을 걸어보려고 합니다. </div> 
+    <div style="font-weight: 700; font-size:15px; text-align: center; color: #282d33;">  </div> 
         <br>
         <div>
             <a href="https://chordingg.github.io/chordingg_portfolio/" style="text-decoration: none;">포트폴리오</a>
@@ -55,11 +54,9 @@
                  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Daily-31758745b74848039adc06b06b86212c"> 
              </a>
     </div><br> 
-    <div align= "center">
-        <a href="https://hits.seeyoufarm.com"> 
-            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChordingg%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-    </div>
-    <br><hr/>
+    
+<br><hr/>
+    
    <div align="center">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats 🏅</h3> <br>
     <div align="center">
