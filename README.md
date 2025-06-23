@@ -4,9 +4,6 @@
     <div align= "center"> 
     <div style="font-weight: 700; font-size:15px; text-align: center; color: #282d33;">  </div> 
         <br>
-        <div>
-            <a href="https://chordingg.github.io/chordingg_portfolio/" style="text-decoration: none;">포트폴리오</a>
-        </div>
     </div><hr/>
     <div align= "center">
     <h3 align="center"> 🛠️ Tech Stacks 🛠️ </h3> <br>
